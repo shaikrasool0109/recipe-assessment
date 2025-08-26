@@ -1,0 +1,34 @@
+[
+  {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "Southern Recipes",
+    "title": "Sweet Potato Pie",
+    "URL": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/",
+    "rating": 4.8,
+    "total_time": 115,
+    "prep_time": 15,
+    "cook_time": 100,
+    "description": "Shared from a Southern recipe, this homemade sweet potato pie is easy to make with boiled sweet potato.",
+    "ingredients": [
+      "1 (1 pound) sweet potato, with skin",
+      "0.5 cup butter, softened"
+    ],
+    "instructions": [
+      "Place whole sweet potato in pot and cover with water; bring to a boil."
+    ],
+    "nutrients": {
+      "calories": "389 kcal",
+      "carbohydrateContent": "48 g",
+      "cholesterolContent": "78 mg",
+      "fiberContent": "3 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "10 g",
+      "sodiumContent": "254 mg",
+      "sugarContent": "28 g",
+      "fatContent": "21 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "8 servings"
+  }
+]
